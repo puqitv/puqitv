@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://img.shields.io/github/followers/puqitv?labelColor=D2644E&color=E8FCE3&style=flat&label=what"/>
-  <img src="https://img.shields.io/badge/invitations-10.9k-E8FCE3?labelColor=44A3BF&style=flat"/>
+  <img src="https://img.shields.io/github/followers/puqitv?labelColor=E8FCE3&color=D2644E&style=flat&label=supporters"/>
+  <img src="https://img.shields.io/badge/invitations-10.9k-EEA557?labelColor=E8FCE3&style=flat"/>
+  <img src="https://img.shields.io/badge/messages-58-EDF459?labelColor=E8FCE3&style=flat"/>
 </div>
 
 <div align="center">
