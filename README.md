@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://img.shields.io/github/followers/puqitv?labelColor=D2644E&color=E8FCE3&style=flat&label=TNT"/>
+  <img src="https://img.shields.io/github/followers/puqitv?labelColor=D2644E&color=E8FCE3&style=flat&label=what"/>
+  <img src="https://img.shields.io/badge/invitations-10.9k-E8FCE3?labelColor=44A3BF&style=flat"/>
 </div>
 
 <div align="center">
