@@ -6,4 +6,5 @@
   <img src="https://img.shields.io/github/followers/puqitv?labelColor=E8FCE3&color=D2644E&style=flat&label=supporters"/>
   <img src="https://img.shields.io/badge/invitations-10.9k-EEA557?labelColor=E8FCE3&style=flat"/>
   <img src="https://img.shields.io/badge/messages-58-EDF459?labelColor=E8FCE3&style=flat"/>
+  i give up doing the profile view count
 </div>
