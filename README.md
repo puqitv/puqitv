@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://boosfer.atabook.org">
-    <img src="input" alt="placeholder atabook">
+    <img src="https://github.com/user-attachments/assets/0f597c91-b359-4f95-a9e2-68221e72a057" alt="atabook">
   </a>
 </p>
 
