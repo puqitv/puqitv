@@ -1,12 +1,11 @@
+<p align="center">
+  <a href="https://lettyk.atabook.org">atabook</a>⠀⠀
+  <a href="https://jc3.straw.page">strawpage</a>
+</p>
+
 <div align="center">
   <img src="https://github.com/user-attachments/assets/a7c10ac1-9fda-4669-ac4e-f4a68d8fece9" alt="Spoke Is Here"/>
 </div>
-
-<p align="center">
-  <a href="https://lettyk.atabook.org">
-    <img src="https://github.com/user-attachments/assets/0f597c91-b359-4f95-a9e2-68221e72a057" alt="atabook">
-  </a>
-</p>
 
 <div align="center">
   <img src="https://img.shields.io/github/followers/puqitv?labelColor=E8FCE3&color=D2644E&style=flat&label=supporters"/>
