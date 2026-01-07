@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <a href="boosfer.atabook.org">
+  <a href="https://boosfer.atabook.org">
     <img src="https://github.com/user-attachments/assets/cc600a97-e174-4bfe-af04-008c496c13d6" alt="test atabook">
   </a>
 </p>
