@@ -14,7 +14,7 @@
 
 <div align="center">
   <a href="https://lettyk.atabook.org">
-    <img width="86" height="22" alt="Untitled454_20260124222827" src="https://github.com/user-attachments/assets/cb785fcd-ec31-418c-9268-f0b6f0ea91e1" alt=atabookLink />
+    <img width="86" height="22" alt="Untitled454_20260124222827" src="https://github.com/user-attachments/assets/cb785fcd-ec31-418c-9268-f0b6f0ea91e1" alt=atabookLink/>
   </a>
 </div>
 
