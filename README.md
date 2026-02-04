@@ -1,11 +1,11 @@
 <table>
   <td>
     <div align="center">
-  <img width="2048" height="228" alt="Untitled5_20260204174644" src="https://github.com/user-attachments/assets/0281d1d6-d10d-4cf0-bdb1-b25946f6d1a9" />
+  <img width="948" height="128" alt="Untitled5_20260204174644" src="https://github.com/user-attachments/assets/0281d1d6-d10d-4cf0-bdb1-b25946f6d1a9" />
 </div>
 
 <div align="center">
-  <img width="459" height="328" alt="Untitled5_20260204174644" src="https://github.com/user-attachments/assets/3713f9b8-de3f-4c25-a676-06a0a7fde219"/>
+  <img width="259" height="228" alt="Untitled5_20260204174644" src="https://github.com/user-attachments/assets/3713f9b8-de3f-4c25-a676-06a0a7fde219"/>
 </div>
 
 <div align="center">
