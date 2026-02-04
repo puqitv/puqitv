@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?user=puqitv&repo=puqitv&label=guests&labelColor=%23BA1619&countColor=%23BA1619&style=flat&leftCount=10940"/>
+  <img src="https://api.visitorbadge.io/api/visitors?user=puqitv&repo=puqitv&label=guests&labelColor=%23F02F6E&countColor=%23F28262&style=flat&leftCount=10940"/>
 </div>
 
 <div align="center">
