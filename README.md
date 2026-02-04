@@ -5,16 +5,16 @@
 </div>
 
 <div align="center">
-  <img width="219" height="195" alt="Untitled5_20260204174644" src="https://github.com/user-attachments/assets/3713f9b8-de3f-4c25-a676-06a0a7fde219"/>
-</div>
-
-<div align="center">
   <img src="https://api.visitorbadge.io/api/visitors?user=puqitv&repo=puqitv&label=visitors&labelColor=%23F02F6E&countColor=%23F28262&style=flat&leftCount=10940"/>
 </div>
 
 <div align="center">
+  <img width="219" height="195" alt="Untitled5_20260204174644" src="https://github.com/user-attachments/assets/3713f9b8-de3f-4c25-a676-06a0a7fde219"/>
+</div>
+
+<div align="center">
   <a href="https://jamatop.atabook.org">
-    <img src="https://github.com/user-attachments/assets/60b1d2af-6851-459f-85d6-e1a3e338fb04" />   
+    <img width="128" height="108" alt="Untitled5_20260204174644" src="https://github.com/user-attachments/assets/a25c6c0c-1017-4b1a-864e-117f8a58a242" />   
   </a>
 </div>
   </td>
