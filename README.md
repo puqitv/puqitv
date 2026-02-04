@@ -1,10 +1,11 @@
-<div align="center">
-  redesign soon again.
-  sign my ata! 
+<table>
+  <td>
+    <div align="center">
+  <img width="2048" height="228" alt="Untitled5_20260204174644" src="https://github.com/user-attachments/assets/0281d1d6-d10d-4cf0-bdb1-b25946f6d1a9" />
 </div>
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/2ea6c019-4f2a-4b12-954b-778ee94c099b"/>
+  <img width="459" height="328" alt="Untitled5_20260204174644" src="https://github.com/user-attachments/assets/3713f9b8-de3f-4c25-a676-06a0a7fde219"/>
 </div>
 
 <div align="center">
@@ -16,7 +17,8 @@
     <img src="https://github.com/user-attachments/assets/60b1d2af-6851-459f-85d6-e1a3e338fb04" />   
   </a>
 </div>
-
+  </td>
+</table>
 
 <!--
 
