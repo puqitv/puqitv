@@ -5,7 +5,13 @@
 </div>
 
 <div align="center">
+  <img width="64" height="32" alt="Untitled5_20260204174644" src="https://github.com/user-attachments/assets/696e5612-46a7-4d87-9562-7ac73fcea9af"/>
+<img width="85" height="32" alt="Untitled5_20260204174644" src="https://github.com/user-attachments/assets/67e9a2ce-c620-42e1-aa7e-b63b91ff87b3"/>
+</div>
+
+<div align="center">
   <img src="https://api.visitorbadge.io/api/visitors?user=puqitv&repo=puqitv&label=visitors&labelColor=%23F02F6E&countColor=%23F28262&style=flat&leftCount=10940"/>
+
 </div>
 
 <div align="center">
